@@ -5,7 +5,7 @@
 3. Optimized **cross-platform compatibility** and **event-driven UI flows**, ensuring smooth performance on mobile and desktop browsers.
 ------------------------------------------------------------------
 
-check out - https://arindam-tech9.github.io/VirtuosoAR/
+Check out - https://arindam-tech9.github.io/VirtuosoAR/
 
 
 BarCode - https://github.com/arindam-tech9/VirtuosoAR/blob/main/Barcode.pdf
