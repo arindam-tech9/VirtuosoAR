@@ -11,7 +11,7 @@ Check out - https://arindam-tech9.github.io/VirtuosoAR/
 BarCode - https://github.com/arindam-tech9/VirtuosoAR/blob/main/Barcode.pdf
 
 
-🔬 **Design and Implementation of a Marker-Based Web AR Musical Interaction System**
+ **Design and Implementation of a Marker-Based Web AR Musical Interaction System**
 
 I recently developed a **marker-based Augmented Reality (AR) framework** for interactive musical visualization and audio triggering using browser-based technologies.
 
